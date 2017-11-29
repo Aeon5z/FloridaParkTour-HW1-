@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Alafia River State Park</key>
+	<dict>
+		<key>parkName</key>
+		<string>Alafia River State Park</string>
+		<key>Location</key>
+		<string>Hillsborough County, Florida</string>
+		<key>Year</key>
+		<string>1996</string>
+		<key>Description</key>
+		<string>Alafia River State Park is a Florida State Park, located near Picnic in Hillsborough County in central Florida, 10 miles southeast of Tampa on County Road 39. Even before it became a park, the area, and particularly Hurrah Lake, was the center of leisure activities since the early 1880s.</string>
+		<key>parkImage</key>
+		<string>Alafia River</string>
+	</dict>
+	<key>Amelia Island State Park</key>
+	<dict>
+		<key>parkName</key>
+		<string>Amelia Island State Park</string>
+		<key>Location</key>
+		<string>Nassau County, Florida</string>
+		<key>Year</key>
+		<string>1983</string>
+		<key>Description</key>
+		<string>Amelia Island State Recreation Area is a Florida State Park located 7 miles (11 km) north of Little Talbot Island State Park on SR A1A, and 8 miles (13 km) south of Fernandina Beach on Amelia Island, Florida. The park consists of 200 acres (0.81 km2) of beaches, salt marshes and coastal maritime forests.</string>
+		<key>parkImage</key>
+		<string>Alfred B. Maclay Gardens</string>
+	</dict>
+	<key>Anastasia State Park</key>
+	<dict>
+		<key>parkName</key>
+		<string>Anastasia State Park</string>
+		<key>Location</key>
+		<string>St. Johns County, Florida</string>
+		<key>Year</key>
+		<string>1949</string>
+		<key>Description</key>
+		<string>Anastasia State Park is a 1,600-acre (6.5 km2) Florida State Park located on a peninsula on the Atlantic coast of Anastasia Island across Matanzas Bay from downtown St. Augustine. The park has a variety of wildlife, birds and plants in a setting of beaches, tidal salt marsh, and marine and upland hammock.</string>
+		<key>parkImage</key>
+		<string>Anastasia</string>
+	</dict>
+	<key>The Barnacle Historic State Park</key>
+	<dict>
+		<key>parkName</key>
+		<string>The Barnacle Historic State Park</string>
+		<key>Location</key>
+		<string>Miami-Dade County, Florida</string>
+		<key>Year</key>
+		<string>1973</string>
+		<key>Description</key>
+		<string>The Barnacle Historic State Park is a 5-acre (2.0 ha) Florida State Park in the Coconut Grove neighborhood of Miami, Florida at 3485 Main Highway.
+
+Built in 1891, it is the oldest house in its original location in Miami-Dade County. The Barnacle was the home of Ralph Middleton Munroe, one of Coconut Grove’s founders, as well as founder and Commodore of the Biscayne Bay Yacht Club. He was also a leading designer of sailing yachts. The Florida Park Service acquired the remaining 5 acres (20,000 m2) of Munroe&apos;s original 40-acre (160,000 m2) homesite from his descendants in 1973.
+
+The Barnacle Historic State Park is served by the Miami Metrorail at the Douglas Road and the Coconut Grove stations.</string>
+		<key>parkImage</key>
+		<string>The Barnacle Historic</string>
+	</dict>
+	<key>Big Shoals State Park</key>
+	<dict>
+		<key>parkName</key>
+		<string>Big Shoals State Park</string>
+		<key>Location</key>
+		<string>Hamilton County, Florida</string>
+		<key>Year</key>
+		<string>1989</string>
+		<key>Description</key>
+		<string>Big Shoals State Park is located in Hamilton County, Florida[1] and is a Florida State Park. It is located approximately a mile east of White Springs, off US 41. The park is situated on the Suwannee River and features Limestone bluffs as well as the biggest whitewater rapids in all of Florida. The park also features over 28 miles of hiking and nature trails, and freshwater fishing.</string>
+		<key>parkImage</key>
+		<string>Big Shoals</string>
+	</dict>
+	<key>Blackwater River State Park</key>
+	<dict>
+		<key>parkName</key>
+		<string>Blackwater River State Park</string>
+		<key>Location</key>
+		<string>Santa Rosa County, Florida</string>
+		<key>Year</key>
+		<string>1967</string>
+		<key>Description</key>
+		<string>A favorite destination for canoeists and kayakers, Blackwater River offers opportunities for a variety of outdoor recreation. The river is one of the purest sand-bottom rivers in the nation, making this park a popular place for swimming, fishing, camping, and paddling. Shaded campsites are just a short walk from the river, and visitors can enjoy a picnic at a pavilion overlooking the river. Nature enthusiasts will enjoy strolling along trails through undisturbed natural communities. The park was certified a Registered State Natural Feature in 1980, for possessing exceptional value in illustrating the natural history of Florida. In 1982, an Atlantic white cedar there was recognized as a Florida Champion tree, one of the largest and oldest of its species.</string>
+		<key>parkImage</key>
+		<string>Blackwater River</string>
+	</dict>
+	<key>Crystal River Archaeological</key>
+	<dict>
+		<key>parkName</key>
+		<string>Crystal River Archaeological</string>
+		<key>Location</key>
+		<string>Citrus County, Florida</string>
+		<key>Year</key>
+		<string>1965</string>
+		<key>Description</key>
+		<string>Crystal River State Archaeological Site is a 61-acre (250,000 m2) Florida State Park located on the Crystal River and within the Crystal River Preserve State Park. The park is located two miles (3 km) northwest of the city of Crystal River, on Museum Point off US 19/98.
+
+Under the title of Crystal River Indian Mounds, it is also a U.S. National Historic Landmark (designated as such on September 29, 1970).</string>
+		<key>parkImage</key>
+		<string>Crystal River Archaeological</string>
+	</dict>
+	<key>Curry Hammock State Park</key>
+	<dict>
+		<key>parkName</key>
+		<string>Curry Hammock State Park</string>
+		<key>Location</key>
+		<string>Monroe County, Florida</string>
+		<key>Year</key>
+		<string>1991</string>
+		<key>Description</key>
+		<string>Curry Hammock State Park is a Florida State Park, located along both sides of US 1, starting at mile marker 56.2 on Crawl Key in the Florida Keys. There are a multitude of activities available at Curry Hammock State Park. Kayaking, Fishing, Beach going are all there. You can also camp and bring your RV to the park to stay the night. Check in at the ranger station for more information.</string>
+		<key>parkImage</key>
+		<string>Curry Hammock</string>
+	</dict>
+	<key>Devil&apos;s Millhopper </key>
+	<dict>
+		<key>parkName</key>
+		<string>Devil&apos;s Millhopper </string>
+		<key>Location</key>
+		<string>Alachua County, Florida</string>
+		<key>Year</key>
+		<string>1974</string>
+		<key>Description</key>
+		<string>Devil&apos;s Millhopper Geological State Park is a Florida State Park located in the north-westernmost part of Gainesville, Florida, off County Road 232, northwest of the University of Florida.
+
+The park is maintained by the Florida State Parks system, a division of the Florida Department of Environmental Protection. The park is adjacent to San Felasco County Park and is near the San Felasco Hammock Preserve State Park.</string>
+		<key>parkImage</key>
+		<string>Devil Millhopper</string>
+	</dict>
+	<key>Edward Ball Wakulla Springs </key>
+	<dict>
+		<key>parkName</key>
+		<string>Edward Ball Wakulla Springs</string>
+		<key>Location</key>
+		<string>Wakulla County, Florida</string>
+		<key>Year</key>
+		<string>1968</string>
+		<key>Description</key>
+		<string>Edward Ball Wakulla Springs State Park is a Florida State Park in Wakulla County, Florida, United States. This 6,000 acre (24 km2) wildlife sanctuary, located south of Tallahassee, is listed on the National Register of Historic Places, and designated a National Natural Landmark. It has three nature trail systems which lead the visitor through pine forests, bald cypress wetlands and hardwood hammock. Hikers, bicyclists and horse riders are welcome. The wildlife found in the forest includes white-tailed deer, wild turkey, and many other bird species, while American alligators, bass, gar, various snakes, and West Indian manatee (during the winter) populate the springs, swamps, and river.</string>
+		<key>parkImage</key>
+		<string>Edward Ball Wakulla Springs</string>
+	</dict>
+	<key>Falling Waters State Park</key>
+	<dict>
+		<key>parkName</key>
+		<string>Falling Waters State Park</string>
+		<key>Location</key>
+		<string>Washington County, Florida</string>
+		<key>Year</key>
+		<string>1962</string>
+		<key>Description</key>
+		<string>Falling Waters State Park is a 171-acre (69 ha) Florida state park located three miles (5 km) south of Chipley, Washington County in northwestern Florida. The park contains a 73-foot (22 m) waterfall, the highest in the state  known as either &quot;Falling Waters Falls&quot; or the &quot;Falling Waters Sink&quot;.</string>
+		<key>parkImage</key>
+		<string>Falling Waters</string>
+	</dict>
+	<key>Florida Caverns State Park</key>
+	<dict>
+		<key>parkName</key>
+		<string>Florida Caverns State Park</string>
+		<key>Location</key>
+		<string>Jackson County, Florida</string>
+		<key>Year</key>
+		<string>1942</string>
+		<key>Description</key>
+		<string>Florida Caverns State Park is a state park of Florida in the United States, part of the Florida State Parks system. It is located in the Florida Panhandle near Marianna. It is the only Florida state park with air-filled caves accessible to the public.
+The limestone caves in the park have stalagmites, stalactites and flowstones formed by the erosion of bedrock. Other formations are above ground, including rivers and springs.
+Florida Caverns State Park and the neighboring golf course were constructed by the Civilian Conservation Corps as part of the New Deal. The park opened in 1942.</string>
+		<key>parkImage</key>
+		<string>Florida Caverns</string>
+	</dict>
+	<key>John Pennekamp Coral Reef</key>
+	<dict>
+		<key>parkName</key>
+		<string>John Pennekamp Coral Reef</string>
+		<key>Location</key>
+		<string>Monroe County, Florida</string>
+		<key>Year</key>
+		<string>1963</string>
+		<key>Description</key>
+		<string>John Pennekamp Coral Reef State Park is a Florida State Park located on Key Largo in Florida, and includes approximately 70 nautical square miles (240 km²) of adjacent Atlantic Ocean waters. It was the first underwater park in the United States. The park was added to the National Register of Historic Places on April 14, 1972. The primary attractions of the park are the coral reefs (such as Molasses Reef) and their associated marine life.
+
+In Fiscal Year 2004 the park had more than a million visitors, making it the most popular park in the Florida State Parks system. The Florida Keys and the Flower Garden Banks in the Gulf of Mexico off the Texas coast are the only living coral reef formations in the continental United States.</string>
+		<key>parkImage</key>
+		<string>John Pennekamp Coral Reef</string>
+	</dict>
+	<key>San Pedro Underwater Archaeological Preserve State Park</key>
+	<dict>
+		<key>parkName</key>
+		<string>San Pedro Archaeological</string>
+		<key>Location</key>
+		<string>Monroe County, Florida</string>
+		<key>Year</key>
+		<string>1989</string>
+		<key>Description</key>
+		<string>San Pedro Underwater Archaeological Preserve State Park is a Florida State Park located in 18 feet (5.5 m) of water, approximately 1.25 nautical miles (2.32 km) south of Indian Key. It became the second Florida Underwater Archaeological Preserve when it opened to the public in 1989. The heart of the park is the San Pedro, a submerged shipwreck from a 1733 Spanish flotilla, around which visitors can dive and snorkel. The wreck was added to the U.S. National Register of Historic Places on May 31, 2001.</string>
+		<key>parkImage</key>
+		<string>San Pedro Archaeological</string>
+	</dict>
+	<key>Stephen Foster Folk Culture Center State Park</key>
+	<dict>
+		<key>parkName</key>
+		<string>Stephen Foster Folk Culture Center</string>
+		<key>Location</key>
+		<string>Hamilton County, Florida</string>
+		<key>Year</key>
+		<string>1950</string>
+		<key>Description</key>
+		<string>Stephen Foster Folk Culture Center State Park is a Florida State Park located in White Springs off U.S. 41, along the Suwannee River in north Florida.
+
+Stephen Foster is famous for having written the song &quot;Old Folks At Home,&quot; also known as &quot;Way Down Upon the Suwannee River.&quot; The song, referring nostalgically to &quot;home far, far away,&quot; is Florida&apos;s state song.</string>
+		<key>parkImage</key>
+		<string>Stephen Foster Folk Culture Center</string>
+	</dict>
+</dict>
+</plist>

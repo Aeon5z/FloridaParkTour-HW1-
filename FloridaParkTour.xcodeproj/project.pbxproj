@@ -8,13 +8,17 @@
 
 /* Begin PBXBuildFile section */
 		AF2ECA6C1FC4D27A00BF0B73 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AF2ECA6B1FC4D27A00BF0B73 /* AppDelegate.m */; };
-		AF2ECA6F1FC4D27A00BF0B73 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AF2ECA6E1FC4D27A00BF0B73 /* ViewController.m */; };
 		AF2ECA721FC4D27A00BF0B73 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF2ECA701FC4D27A00BF0B73 /* Main.storyboard */; };
 		AF2ECA741FC4D27B00BF0B73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF2ECA731FC4D27B00BF0B73 /* Assets.xcassets */; };
 		AF2ECA771FC4D27B00BF0B73 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF2ECA751FC4D27B00BF0B73 /* LaunchScreen.storyboard */; };
 		AF2ECA7A1FC4D27B00BF0B73 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AF2ECA791FC4D27B00BF0B73 /* main.m */; };
 		AF2ECA841FC4D27B00BF0B73 /* FloridaParkTourTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AF2ECA831FC4D27B00BF0B73 /* FloridaParkTourTests.m */; };
 		AF2ECA8F1FC4D27B00BF0B73 /* FloridaParkTourUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = AF2ECA8E1FC4D27B00BF0B73 /* FloridaParkTourUITests.m */; };
+		AF2ECA9E1FC4D3B800BF0B73 /* ParkTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AF2ECA9D1FC4D3B800BF0B73 /* ParkTableViewController.m */; };
+		AF2ECAA11FC4D42C00BF0B73 /* ParkDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AF2ECAA01FC4D42C00BF0B73 /* ParkDetailViewController.m */; };
+		AF2ECAA81FC53B7C00BF0B73 /* parkHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = AF2ECAA71FC53B7C00BF0B73 /* parkHelper.m */; };
+		AF2ECAAB1FC53E5B00BF0B73 /* ParkCellTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = AF2ECAAA1FC53E5B00BF0B73 /* ParkCellTableView.m */; };
+		AF2ECAAD1FC53F9B00BF0B73 /* parkList.plist in Resources */ = {isa = PBXBuildFile; fileRef = AF2ECAAC1FC53F9B00BF0B73 /* parkList.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,8 +42,6 @@
 		AF2ECA671FC4D27A00BF0B73 /* FloridaParkTour.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FloridaParkTour.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF2ECA6A1FC4D27A00BF0B73 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		AF2ECA6B1FC4D27A00BF0B73 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		AF2ECA6D1FC4D27A00BF0B73 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		AF2ECA6E1FC4D27A00BF0B73 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		AF2ECA711FC4D27A00BF0B73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		AF2ECA731FC4D27B00BF0B73 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF2ECA761FC4D27B00BF0B73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -51,6 +53,15 @@
 		AF2ECA8A1FC4D27B00BF0B73 /* FloridaParkTourUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FloridaParkTourUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF2ECA8E1FC4D27B00BF0B73 /* FloridaParkTourUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FloridaParkTourUITests.m; sourceTree = "<group>"; };
 		AF2ECA901FC4D27B00BF0B73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF2ECA9C1FC4D3B800BF0B73 /* ParkTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ParkTableViewController.h; sourceTree = "<group>"; };
+		AF2ECA9D1FC4D3B800BF0B73 /* ParkTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ParkTableViewController.m; sourceTree = "<group>"; };
+		AF2ECA9F1FC4D42C00BF0B73 /* ParkDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ParkDetailViewController.h; sourceTree = "<group>"; };
+		AF2ECAA01FC4D42C00BF0B73 /* ParkDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ParkDetailViewController.m; sourceTree = "<group>"; };
+		AF2ECAA61FC53B7C00BF0B73 /* parkHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = parkHelper.h; sourceTree = "<group>"; };
+		AF2ECAA71FC53B7C00BF0B73 /* parkHelper.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = parkHelper.m; sourceTree = "<group>"; };
+		AF2ECAA91FC53E5B00BF0B73 /* ParkCellTableView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ParkCellTableView.h; sourceTree = "<group>"; };
+		AF2ECAAA1FC53E5B00BF0B73 /* ParkCellTableView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ParkCellTableView.m; sourceTree = "<group>"; };
+		AF2ECAAC1FC53F9B00BF0B73 /* parkList.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = parkList.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,9 +114,16 @@
 			children = (
 				AF2ECA6A1FC4D27A00BF0B73 /* AppDelegate.h */,
 				AF2ECA6B1FC4D27A00BF0B73 /* AppDelegate.m */,
-				AF2ECA6D1FC4D27A00BF0B73 /* ViewController.h */,
-				AF2ECA6E1FC4D27A00BF0B73 /* ViewController.m */,
+				AF2ECAA61FC53B7C00BF0B73 /* parkHelper.h */,
+				AF2ECAA71FC53B7C00BF0B73 /* parkHelper.m */,
+				AF2ECAA91FC53E5B00BF0B73 /* ParkCellTableView.h */,
+				AF2ECAAA1FC53E5B00BF0B73 /* ParkCellTableView.m */,
+				AF2ECA9C1FC4D3B800BF0B73 /* ParkTableViewController.h */,
+				AF2ECA9D1FC4D3B800BF0B73 /* ParkTableViewController.m */,
+				AF2ECA9F1FC4D42C00BF0B73 /* ParkDetailViewController.h */,
+				AF2ECAA01FC4D42C00BF0B73 /* ParkDetailViewController.m */,
 				AF2ECA701FC4D27A00BF0B73 /* Main.storyboard */,
+				AF2ECAAC1FC53F9B00BF0B73 /* parkList.plist */,
 				AF2ECA731FC4D27B00BF0B73 /* Assets.xcassets */,
 				AF2ECA751FC4D27B00BF0B73 /* LaunchScreen.storyboard */,
 				AF2ECA781FC4D27B00BF0B73 /* Info.plist */,
@@ -240,6 +258,7 @@
 			files = (
 				AF2ECA771FC4D27B00BF0B73 /* LaunchScreen.storyboard in Resources */,
 				AF2ECA741FC4D27B00BF0B73 /* Assets.xcassets in Resources */,
+				AF2ECAAD1FC53F9B00BF0B73 /* parkList.plist in Resources */,
 				AF2ECA721FC4D27A00BF0B73 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -265,9 +284,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AF2ECA6F1FC4D27A00BF0B73 /* ViewController.m in Sources */,
+				AF2ECA9E1FC4D3B800BF0B73 /* ParkTableViewController.m in Sources */,
+				AF2ECAA11FC4D42C00BF0B73 /* ParkDetailViewController.m in Sources */,
 				AF2ECA7A1FC4D27B00BF0B73 /* main.m in Sources */,
+				AF2ECAAB1FC53E5B00BF0B73 /* ParkCellTableView.m in Sources */,
 				AF2ECA6C1FC4D27A00BF0B73 /* AppDelegate.m in Sources */,
+				AF2ECAA81FC53B7C00BF0B73 /* parkHelper.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
